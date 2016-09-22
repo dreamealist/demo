@@ -1,0 +1,6 @@
+{
+  "name": "Demo",
+  "tagline": "",
+  "body": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n\t<title>Web Advanced: Fall 2016</title>\r\n\t<title> Simple Media Queries </title>\r\n\t<meta charste=\"utf-8\" />\r\n\r\n\t<link rel=\"stylesheet\" href=\"css/style.css\">\r\n</head>\r\n<body>\r\n\r\n\r\n\r\n\t<link rel=\"stylesheet\" href=\"css/style.css\">\r\n</head>\r\n<body>\r\n\t<script type=\"text/javascript\" src=\"js/main.js\"></script>\r\n</body>\r\n</html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
